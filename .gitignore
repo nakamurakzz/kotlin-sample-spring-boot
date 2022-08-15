@@ -1,3 +1,6 @@
+volumes
+generatorConfig.xml
+
 HELP.md
 .gradle
 build/
